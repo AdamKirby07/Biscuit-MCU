@@ -15,7 +15,7 @@ BiscuitMCU (Biscuit Microcontroller) is a simple, beginner-friendly microcontrol
 - **Advanced Programming**: For more experienced users, the BiscuitMCU supports uploading compiled hex files directly from the MPLAB IDE—a great way to learn commercial microcontroller programming.  
 - **USB-IF Compliant**: The BiscuitMCU complies with USB-IF standards, drawing a maximum of 450mA of current, which is plenty for a wide range of projects.  
 - **Built-In Safety Features**: Includes an auto-resettable fuse that protects against overcurrent, resetting within 24 hours for uninterrupted use.  
-- **Expansion and Future Upgrades**: The upcoming *Compote One 2* will add even more beginner-friendly functionality to the BiscuitMCU. This feature is currently in testing and will be released soon.  
+- **Expansion and Future Upgrades**: The upcoming *Add on board* will add even more beginner-friendly functionality to the BiscuitMCU with a simple bolt on design. This feature is currently in testing and will be released soon.  
 
 ---
 
