@@ -42,12 +42,10 @@ BiscuitMCU (Biscuit Microcontroller) is a simple, beginner-friendly microcontrol
 ## Buying BiscuitMCU  
 
 Support BiscuitMCU by purchasing it from our official online store:  
-[**Click here to buy BiscuitMCU!**](#)  
-(*Link to your store will be added here once available.*)  
+<a href="https://www.tindie.com/stores/adamkirby/?ref=offsite_badges&utm_source=sellers_AKS&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a> 
 
 Alternatively, you can visit:  
-[https://your-url-slug.com](https://your-url-slug.com)  
-
+[https://www.tindie.com/stores/adamkirby/](https://www.tindie.com/stores/adamkirby/
 ---
 
 ## Distributor or Reseller Inquiries  
