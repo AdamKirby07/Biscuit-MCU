@@ -10,7 +10,7 @@ BiscuitMCU (Biscuit Microcontroller) is a simple, beginner-friendly microcontrol
 
 - **Beginner-Friendly Design**: Alligator-clip terminals make connections easy.  
 - **Battery Connector Included**: Power the BiscuitMCU easily with the included battery connector. The board supports 7 to 12 volts DC (non-lithium) batteries, such as AA, AAA, or 9-volt batteries. This ensures safety for beginners, as lithium-based products are not used. *Note: This board does not charge the batteries.*  
-- **Drag-and-Drop Programming**: The built-in bootloader allows the BiscuitMCU to appear as a USB storage drive (U2S drive). Simply drag and drop your compiled code to program it.  
+- **Drag-and-Drop Programming**: The built-in bootloader allows the BiscuitMCU to appear as a USB storage drive (U2F drive). Simply drag and drop your compiled code to program it.  
 - **Arduino IDE Support**: BiscuitMCU works seamlessly with the Arduino IDE, making programming straightforward and intuitive. (Library details will be provided soon.)  
 - **Advanced Programming**: For more experienced users, the BiscuitMCU supports uploading compiled hex files directly from the MPLAB IDE—a great way to learn commercial microcontroller programming.  
 - **USB-IF Compliant**: The BiscuitMCU complies with USB-IF standards, drawing a maximum of 450mA of current, which is plenty for a wide range of projects.  
