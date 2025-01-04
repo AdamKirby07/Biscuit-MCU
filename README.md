@@ -2,7 +2,7 @@
 
 BiscuitMCU (Biscuit Microcontroller) is a simple, beginner-friendly microcontroller designed to make learning and experimenting with electronics fun and accessible. Featuring alligator-clip terminals, it’s perfect for hobbyists, educators, and anyone new to microcontrollers.  
 
-![Biscuit Microcontroller](Image/Biscuit Microcontroller.jpeg)  
+![Biscuit Microcontroller](Image/Biscuit Microcontroller.jpg)  
 
 ---
 
