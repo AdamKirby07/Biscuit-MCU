@@ -6,7 +6,7 @@ This repository contains the bootloader for the Biscuit MCU.
 
 The bootloader is a **custom implementation of the USB-uC**. For detailed documentation and configuration settings, please refer to the original source here:
 
-[Link to USB-uC Documentation](https://example.com)  
+[Link to USB-uC Documentation](https://github.com/johnnydrazzi/USB-uC)  
 
 ## Important Notes
 
