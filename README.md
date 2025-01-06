@@ -60,3 +60,5 @@ For questions, feedback, or inquiries, please contact:
 **Adam Kirby**  
 [adam@adamkirby.online](mailto:adam@adamkirby.online)  
 
+Discord server https://discord.gg/DC4S3kXMkD
+
