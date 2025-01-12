@@ -58,7 +58,7 @@ If you're interested in becoming a distributor or reseller of BiscuitMCU, please
 
 For questions, feedback, or inquiries, please contact:  
 **Adam Kirby**  
-[adam@adamkirby.online](mailto:adam@adamkirby.online)  if this has issue please use discord.
+[adam@adamkirby.online](mailto:adam@adamkirby.online)  If this has issue please use discord.
 
 adamkirby.online
 
